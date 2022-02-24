@@ -227,7 +227,7 @@ Author, Base, Bug Fixes, Modules | Developer, Base, Bug Fixes, Modules | Bug Fix
 - Translators
 
 ## License
-This project is protected by `GNU General Public Licence v3.0` license.
+This project is protected by `GNU General Public Licence v3.0` license..
 
 ## Contributing
 Contributing to the WhatsAsena project, world first UserBot for WhatsApp. 
